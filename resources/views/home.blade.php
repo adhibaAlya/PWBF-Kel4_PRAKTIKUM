@@ -8,7 +8,7 @@
     <title>Kel4PWBF | Home1 </title>
 </head>
 <body>
-    <h1>Halaman Home</h1>
+    <h1>Halaman Home1</h1>
 
 
     <script src="js/script.js"></script>
